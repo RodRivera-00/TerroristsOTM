@@ -1,0 +1,11 @@
+C:\Users\Rivera\AppData\Local\Temporary Projects\Terrorists On The Move\bin\Debug\Terrorists On The Move.exe.config
+C:\Users\Rivera\AppData\Local\Temporary Projects\Terrorists On The Move\bin\Debug\Terrorists On The Move.exe
+C:\Users\Rivera\AppData\Local\Temporary Projects\Terrorists On The Move\bin\Debug\Terrorists On The Move.pdb
+C:\Users\Rivera\AppData\Local\Temporary Projects\Terrorists On The Move\bin\Debug\Terrorists On The Move.xml
+C:\Users\Rivera\AppData\Local\Temporary Projects\Terrorists On The Move\obj\Debug\Terrorists_On_The_Move.Form1.resources
+C:\Users\Rivera\AppData\Local\Temporary Projects\Terrorists On The Move\obj\Debug\Terrorists_On_The_Move.Resources.resources
+C:\Users\Rivera\AppData\Local\Temporary Projects\Terrorists On The Move\obj\Debug\Terrorists On The Move.vbproj.GenerateResource.Cache
+C:\Users\Rivera\AppData\Local\Temporary Projects\Terrorists On The Move\obj\Debug\Terrorists On The Move.exe
+C:\Users\Rivera\AppData\Local\Temporary Projects\Terrorists On The Move\obj\Debug\Terrorists On The Move.xml
+C:\Users\Rivera\AppData\Local\Temporary Projects\Terrorists On The Move\obj\Debug\Terrorists On The Move.pdb
+C:\Users\Rivera\AppData\Local\Temporary Projects\Terrorists On The Move\obj\Debug\Terrorists_On_The_Move.Form2.resources
